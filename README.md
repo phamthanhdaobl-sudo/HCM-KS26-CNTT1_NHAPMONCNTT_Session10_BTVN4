@@ -1,7 +1,7 @@
 **Họ và tên:** Phạm Thành Đạo\
 **Lớp:** HCM-KS26-CNTT1\
 **Môn học:** IT-101 -- Nhập môn Công nghệ thông tin\
-**Session:** 08\
+**Session:** 10\
 **Bài tập:** Exercise 04 -- Thiết kế Prompt tối ưu cho AI Assistant
 
 # PHẦN 1. THIẾT KẾ PROMPT THEO CÔNG THỨC 3 PHẦN
